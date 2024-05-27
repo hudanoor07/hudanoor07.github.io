@@ -1,0 +1,44 @@
+body {
+    background-color: plum;
+}
+
+header {
+    background-color: lightpink;
+    color: lavenderblush;
+    font-family: monaco;
+    font-size: 110%;
+    padding: 1em 0;
+}
+
+h1, h2, h3 {
+    color: lavenderblush;
+    font-family: monaco;
+    margin: 0.5em 0;
+}
+
+section {
+    color: lavenderblush;
+    font-family:"courier new";
+    font-size: 110%;
+    margin: 1em 0;
+    padding: 1em;
+    background-color: lightpink;
+    border-radius: 8px;
+
+}
+
+table, th, td {
+   border: 1px lavenderblush;
+   border-radius: 10px;
+   color: lavenderblush;
+}
+
+a {
+    font-family: "courier new";
+    color: mediumpurple;
+}
+
+a:hover {
+	color: mediumvioletred;
+    text-decoration: underline;
+}
